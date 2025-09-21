@@ -1603,6 +1603,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
 #EXTINF:-1 group-title="China" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" tvg-id="CCTV-4" tvg-country="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",CCTV 4
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 group-title="China" tvg-url="" tvg-id="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Formosa_TV_logo.svg/1200px-Formosa_TV_logo.svg.png",Formosa Drama
+https://bit.ly/FormosaDrama
+
 <=========================================== TVRI Group =========================================>
 
 #EXTM3U
