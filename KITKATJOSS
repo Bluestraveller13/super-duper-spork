@@ -13,7 +13,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdn.imgbin.com/2/14/23/imgbin-logo-mnctv-television-media-nusantara-citra-rcti-televisi-indonesia-SsMMeTn51r6dvMR78EeeesWHq.jpg" group-title="Indonesia Channels",MNC TV (V+)
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="Indonesia Channels",MNC TV (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
