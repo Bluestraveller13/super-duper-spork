@@ -263,9 +263,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w942100365_b1128000_s
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel (ChannelFeed)
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
+#EXTVLCOPT:http-referrer=https://indonesiana.tv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="Indonesia Channels",Indonesiana TV (ChannelFeed)
 https://tvstreamcast.com/indonesiana.m3u8
 
