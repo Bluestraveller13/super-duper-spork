@@ -775,6 +775,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 #EXTINF:-1 tvg-id="MuseumTVF.mv" tvg-name="Travel & Lifestyle TV" tvg-logo="https://travelnlifestyle.com/wp-content/uploads/2024/05/Travel-Lifestyle-Logo.png" group-title="Entertainment & LifeStyle",Travel & Lifestyle TV
 https://maldivesn.net/hilaytv/travelandlifestyle
 
+#EXTINF:-1 tvg-id="cookingch.mv" tvg-name="Cooking Channel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/dejq8qs-b4ffe795-5ad0-46d0-82ea-ea2ab15cd6ce.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lY2Q1MTI2My1iYjBmLTQ0NjUtYWY4Ni1mN2VkMjVlNThlNzAvZGVqcThxcy1iNGZmZTc5NS01YWQwLTQ2ZDAtODJlYS1lYTJhYjE1Y2Q2Y2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.76aCR2PN7A6QqMLUDVpV-P3ze7YMepDwfjK6QcE_RaA" group-title="Entertainment & LifeStyle",Cooking Channel
+https://maldivesn.net/hilaytv/cookingch
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
