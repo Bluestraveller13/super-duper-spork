@@ -2153,6 +2153,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_BERITASATU_2025_03_17_15_00_18.png",Berita Satu
+https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest_w607931995_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",BTV
@@ -2186,6 +2187,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_DAAITV_2025_03_17_15_28_44.png",DAAI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest_w876543528_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png",JakTV
@@ -2219,6 +2221,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_EURONEWS_2025_03_17_15_02_11.png",Euronews
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews720/manifest_w1660491200_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/euronews720/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_FRANCE24_2025_03_17_14_59_11.png",France24
@@ -2237,6 +2240,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CITRADRAMA_2025_03_17_14_49_15.png",Citra Drama
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest_w660216264_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_DUNIALAIN_2025_03_17_14_57_31.png",Dunia Lain
@@ -2245,6 +2249,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_HITSNOW_2025_03_17_15_25_11.png",HITS Now
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest_w2055134930_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png",K-Plus
@@ -2266,21 +2271,26 @@ https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_LIFETIME_2025_03_17_14_54_15.png",Lifetime
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest_w10939036_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ANIMALPLANET_2025_03_17_15_27_22.png",Animal Planet
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CGTNDOC_2025_03_17_14_59_03.png",CGTN Documentary
 https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CURIOSITY_2025_03_17_15_29_20.png",Curiosity
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest_w1897293060_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERYASIA_2025_03_17_15_31_07.png",Discovery Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w1465869984_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_LOVENATURE_2025_03_17_15_28_20.png",Love Nature
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest_w2098937634_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png",Aniplus
@@ -2289,6 +2299,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png",Cartoon Network
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png",Cartoonito
@@ -2308,9 +2319,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png",Mentari TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w1677944154_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MOONBUGKIDS_2025_03_17_15_10_52.png",Moonbug
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest_w206397924_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png",My Kidz
@@ -2332,12 +2345,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MAXSTREAM_2025_03_17_15_26_26.png",Maxstream
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ROCKACTION_2025_03_17_14_48_54.png",Rock Action
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png",Studio Universal
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest_w1324836965_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill
@@ -2350,6 +2365,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MUSIKINDONESIA_2025_03_17_15_24_16.png",Musik Indonesia
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest_w1796600437_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
 
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png",Prambors
