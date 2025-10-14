@@ -1619,7 +1619,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
@@ -1630,7 +1630,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
@@ -1638,7 +1638,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-id="" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
@@ -1721,7 +1721,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
 
@@ -1729,7 +1729,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
@@ -1737,7 +1737,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
@@ -2081,7 +2081,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w1429108522.m3u8
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
@@ -2181,7 +2181,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ANTV_2025_03_17_14_52_46.png",ANTV
@@ -2189,7 +2189,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_BERITASATU_2025_03_17_15_00_18.png",Berita Satu
@@ -2198,7 +2198,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png",BTV
@@ -2206,7 +2206,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png",Nusantara TV
@@ -2214,7 +2214,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png",RTV
@@ -2222,7 +2222,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",SindoNews
@@ -2230,7 +2230,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Trans7
@@ -2238,7 +2238,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",TransTV
@@ -2246,7 +2246,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TVONE_2025_03_17_14_49_56.png",TVOne
@@ -2254,7 +2254,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png",TVRI
@@ -2262,7 +2262,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png",Antara
@@ -2270,7 +2270,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_BALI-TV_2025_03_17_15_01_03.png",Bali TV
@@ -2278,7 +2278,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_DAAITV_2025_03_17_15_28_44.png",DAAI TV
@@ -2287,7 +2287,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png",JakTV
@@ -2295,7 +2295,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png",Jawa Pos TV
@@ -2303,7 +2303,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png",JTV
@@ -2311,7 +2311,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel"" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
@@ -2319,7 +2319,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ABCAUSTRALIA_2025_03_17_14_50_10.png",ABC Australia
@@ -2327,7 +2327,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ALJAZEERA_2025_03_17_14_58_14.png",Al Jazeera English
@@ -2335,7 +2335,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ARIRANG_2025_03_17_14_45_16.png",Arirang
@@ -2343,7 +2343,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_BLOOMBERG_2025_03_17_15_29_38.png",Bloomberg
@@ -2351,7 +2351,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CNA_2025_03_17_14_56_00.png",Channel News Asia
@@ -2359,7 +2359,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png",DW English
@@ -2367,7 +2367,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_EURONEWS_2025_03_17_15_02_11.png",Euronews
@@ -2376,7 +2376,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/euronews720/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_FRANCE24_2025_03_17_14_59_11.png",France24
@@ -2384,7 +2384,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_NHK_2025_03_17_15_34_22.png",NHK World Japan
@@ -2392,7 +2392,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_SEATODAY_2025_03_17_15_10_12.png",SEA Today
@@ -2400,7 +2400,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ALLPLAYENT_2025_03_17_15_19_48.png",AllPlay Ent
@@ -2408,7 +2408,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_AXN_2025_03_17_15_04_05.png",AXN
@@ -2416,7 +2416,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CITRADRAMA_2025_03_17_14_49_15.png",Citra Drama
@@ -2425,7 +2425,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2435,7 +2435,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_HITSNOW_2025_03_17_15_25_11.png",HITS Now
@@ -2444,7 +2444,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png",K-Plus
@@ -2452,7 +2452,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_KIX_2025_03_17_15_09_40.png",KIX
@@ -2460,7 +2460,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ROCKENTERTAINMENT_2025_03_17_15_03_43.png",Rock Entertainment
@@ -2468,7 +2468,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
@@ -2476,7 +2476,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",ATV
@@ -2484,7 +2484,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_FASHIONTV_2025_03_17_14_55_17.png",FashionTV
@@ -2492,7 +2492,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_LIFETIME_2025_03_17_14_54_15.png",Lifetime
@@ -2501,7 +2501,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ANIMALPLANET_2025_03_17_15_27_22.png",Animal Planet
@@ -2510,7 +2510,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CGTNDOC_2025_03_17_14_59_03.png",CGTN Documentary
@@ -2518,7 +2518,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CURIOSITY_2025_03_17_15_29_20.png",Curiosity
@@ -2527,7 +2527,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_DISCOVERYASIA_2025_03_17_15_31_07.png",Discovery Asia
@@ -2536,7 +2536,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_LOVENATURE_2025_03_17_15_28_20.png",Love Nature
@@ -2545,7 +2545,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2555,7 +2555,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CARTOONNETWORK_2025_03_17_14_49_56.png",Cartoon Network
@@ -2564,7 +2564,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png",Cartoonito
@@ -2572,7 +2572,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2582,7 +2582,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci720/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2592,7 +2592,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png",FunPlanet
@@ -2600,7 +2600,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MENTARITV_2025_03_17_15_21_21.png",Mentari TV
@@ -2609,7 +2609,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MOONBUGKIDS_2025_03_17_15_10_52.png",Moonbug
@@ -2618,7 +2618,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png",My Kidz
@@ -2626,7 +2626,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2636,7 +2636,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2646,7 +2646,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MAXSTREAM_2025_03_17_15_26_26.png",Maxstream
@@ -2655,7 +2655,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ROCKACTION_2025_03_17_14_48_54.png",Rock Action
@@ -2663,7 +2663,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_STUDIOUNIVERSAL_2025_03_17_14_57_23.png",Studio Universal
@@ -2672,7 +2672,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_THRILL_2025_03_17_14_57_55.png",Thrill
@@ -2680,7 +2680,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ZEEBIOSKOP_2025_03_17_15_04_16.png",Zee Bioskop
@@ -2688,7 +2688,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MTVLIVE_2025_03_17_15_02_31.png",MTV Live
@@ -2696,7 +2696,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MUSIKINDONESIA_2025_03_17_15_24_16.png",Musik Indonesia
@@ -2705,7 +2705,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png",Prambors
@@ -2713,7 +2713,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_ALQURANALKAREEM_(1)_2025_03_19_08_18_31.png",Al Quran Al Kareem
@@ -2721,7 +2721,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MQTV_2025_03_17_14_59_27.png",MQTV
@@ -2729,7 +2729,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png",MTATV
@@ -2737,7 +2737,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png",MUI TV
@@ -2745,7 +2745,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png",Rodja TV
@@ -2753,7 +2753,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TAWAFTV_2025_03_17_15_00_40.png",Tawaf TV
@@ -2761,7 +2761,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TV9_2025_03_17_15_01_34.png",TV9 NU
@@ -2769,7 +2769,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png",TVMu
@@ -2777,7 +2777,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_host=127.0.0.1
 #KODIPROP:inputstream.ffmpegdirect.http_proxy_port=8081
 #EXTINF:-1 group-title="Trial Channel" tvg-logo="https://images.indihometv.com/assets/88_UCHANNEL_2025_03_17_15_35_06.png",UChannel
