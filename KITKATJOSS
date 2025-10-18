@@ -296,15 +296,6 @@ https://cdn.garuda.tv/garudatvlivestreaming/720p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.license_key=http://fadhillah.serv00.net/scripts/transvision.php|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36|Referer=https://www.cubmu.com/|Origin=https://www.cubmu.com/|Connection=keep-alive|Accept=*/*
-#KODIPROP:inputstream.adaptive.max_bandwidth=0
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
-#KODIPROP:inputstream.adaptive.use_secure_decoder=true
-#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
-#KODIPROP:inputstream.adaptive.representation_chooser=default
-#KODIPROP:inputstream.adaptive.max_buffer_ms=30000
-#KODIPROP:inputstream.adaptive.initial_buffer_time=5000
-#KODIPROP:inputstream.adaptive.min_buffer_time=10000
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png" group-title="HBO-FMX",HBO
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
@@ -315,15 +306,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.license_key=http://fadhillah.serv00.net/scripts/transvision.php|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36|Referer=https://www.cubmu.com/|Origin=https://www.cubmu.com/|Connection=keep-alive|Accept=*/*
-#KODIPROP:inputstream.adaptive.max_bandwidth=0
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
-#KODIPROP:inputstream.adaptive.use_secure_decoder=true
-#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
-#KODIPROP:inputstream.adaptive.representation_chooser=default
-#KODIPROP:inputstream.adaptive.max_buffer_ms=30000
-#KODIPROP:inputstream.adaptive.initial_buffer_time=5000
-#KODIPROP:inputstream.adaptive.min_buffer_time=10000
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png" group-title="HBO-FMX",HBO Hits
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
@@ -334,15 +316,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.license_key=http://fadhillah.serv00.net/scripts/transvision.php|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36|Referer=https://www.cubmu.com/|Origin=https://www.cubmu.com/|Connection=keep-alive|Accept=*/*
-#KODIPROP:inputstream.adaptive.max_bandwidth=0
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
-#KODIPROP:inputstream.adaptive.use_secure_decoder=true
-#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
-#KODIPROP:inputstream.adaptive.representation_chooser=default
-#KODIPROP:inputstream.adaptive.max_buffer_ms=30000
-#KODIPROP:inputstream.adaptive.initial_buffer_time=5000
-#KODIPROP:inputstream.adaptive.min_buffer_time=10000
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-FMX",HBO Signature
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -355,13 +328,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36|Referer=https://www.cubmu.com/|Origin=https://www.cubmu.com/|Connection=keep-alive|Accept=*/*
 #KODIPROP:inputstream.adaptive.max_bandwidth=0
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
-#KODIPROP:inputstream.adaptive.use_secure_decoder=true
-#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
-#KODIPROP:inputstream.adaptive.representation_chooser=default
-#KODIPROP:inputstream.adaptive.max_buffer_ms=30000
-#KODIPROP:inputstream.adaptive.initial_buffer_time=5000
-#KODIPROP:inputstream.adaptive.min_buffer_time=10000
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO-FMX",HBO Family 
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
@@ -372,15 +338,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.license_key=http://fadhillah.serv00.net/scripts/transvision.php|Content-Type=application/octet-stream
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36|Referer=https://www.cubmu.com/|Origin=https://www.cubmu.com/|Connection=keep-alive|Accept=*/*
-#KODIPROP:inputstream.adaptive.max_bandwidth=0
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
-#KODIPROP:inputstream.adaptive.use_secure_decoder=true
-#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
-#KODIPROP:inputstream.adaptive.representation_chooser=default
-#KODIPROP:inputstream.adaptive.max_buffer_ms=30000
-#KODIPROP:inputstream.adaptive.initial_buffer_time=5000
-#KODIPROP:inputstream.adaptive.min_buffer_time=10000
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
