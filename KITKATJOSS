@@ -655,22 +655,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Knowledge & Documentary",Global Trekker (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
 
-#EXTINF:-1  tvg-name="National Geographic US Eastern HD" tvg-id="national-geographic-us-eastern" tvg-logo="https://wallpapers.com/images/high/national-geographic-channel-logo-wm7hf1ff2r5yhqvj-2.png" group-title="Knowledge & Documentary",National Geographic
-https://maldivesn.net/hilaytv/natgeo
-
-#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://w7.pngwing.com/pngs/617/505/png-transparent-paper-logo-line-font-line-angle-white-text.png" group-title="Knowledge & Documentary",National Geographic Wild
-https://maldivesn.net/hilaytv/natgeowild
-
-#EXTINF:-1  tvg-name="Science HD" tvg-id="science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/330px-Discovery_science_new_logo_2017.png" group-title="Knowledge & Documentary",Discovery Science
-https://maldivesn.net/hilaytv/discoveryscience
-
-#EXTINF:-1  tvg-name="Investigation Discovery USA Eastern HD" tvg-id="investigation-discovery-usa-eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Knowledge & Documentary",Investigation Discovery
-https://maldivesn.net/hilaytv/investigationdiscovery
-
-#EXTINF:-1 tvg-name="Discovery Life Channel HD" tvg-id="discovery-life-channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-life-us.png?raw=true" group-title="Knowledge & Documentary",Discovery Life
-https://maldivesn.net/hilaytv/discoverylife
-
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
