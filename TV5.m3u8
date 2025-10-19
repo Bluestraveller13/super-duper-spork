@@ -1,1 +1,3 @@
-https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=3846400,RESOLUTION=1920x1080,FRAME-RATE=50
+http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/400200328.m3u8
