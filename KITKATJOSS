@@ -1655,7 +1655,7 @@ http://66.90.99.154:8278/Ria/playlist.m3u8?tid=MC4C9224914592249145&ct=20380&tsu
 
 #EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Astro_Sensasi_%282024%29.png",Astro Sensasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-http://66.90.99.154:8278/Sensasi/playlist.m3u8?tid=ME9E3851501438515014&ct=20380&tsum=3ed426bad9518834e9d6e7627c233bca
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Sensasi.m3u8
 
 
 <============================== Brunei ======================================>
