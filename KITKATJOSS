@@ -1543,10 +1543,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
+#EXTINF:-1 group-title="Malaysia" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
 https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/Bernama.m3u8
 
-#EXTINF:-1 group-title="siaranMy" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
+#EXTINF:-1 group-title="Malaysia" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.png",TVS
 https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/TV5.m3u8
 
 #EXTINF:-1 tvg-id="108" group-title="Malaysia" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" tvg-logo="https://e7.pngegg.com/pngimages/130/418/png-clipart-8tv-malaysia-media-prima-television-tv3-bulan-sabit-purple-television.png",8TV Malaysia
