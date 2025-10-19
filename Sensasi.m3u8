@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=2446400,CODECS="avc1.64001F,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25
-http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Sensasi/playlist.m3u8
+http://66.90.99.154:8278/Sensasi/playlist.m3u8?tid=ME9E3851501438515014&ct=20380&tsum=3ed426bad9518834e9d6e7627c233bca
