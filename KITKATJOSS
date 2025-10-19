@@ -1661,6 +1661,10 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Citra.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Astro_Prima_%282024%29.png",Astro Prima
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Prima.m3u8
+
 
 <============================== Brunei ======================================>
 #KODIPROP:inputstream=inputstream.ffmpegdirect
