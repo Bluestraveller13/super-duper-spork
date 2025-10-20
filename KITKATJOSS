@@ -228,7 +228,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels", MOJI TV (FMX)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/eca65983d539fbe5ecba9fc375baecae70c16e5a/Moji.ts
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Moji.ts
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
