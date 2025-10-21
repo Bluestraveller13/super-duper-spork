@@ -1570,7 +1570,7 @@ https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/TV9.m3
 https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/DuniaSinema.m3u8
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
@@ -1712,7 +1712,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
 #EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
-https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
