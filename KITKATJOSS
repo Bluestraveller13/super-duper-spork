@@ -801,7 +801,7 @@ https://maldivesn.net/hilaytv/cookingch
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia (V+)
-https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/ABCAustralia.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia (FMX)
 #KODIPROP:inputstream.adaptive.livestream=false
