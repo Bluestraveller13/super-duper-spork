@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:50,Converting http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/index.m3u8
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:sout=#transcode{vcodec=h264,vb=800,acodec=mpga,ab=128,channels=2,samplerate=44100,scodec=none}:std{access=file{no-overwrite},mux=ts,dst='C:/Users/Administrator/Pictures/Uploadm3u/ABCAus.ts'}
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/index.m3u8
 #EXTINF:50,index.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/index.m3u8
