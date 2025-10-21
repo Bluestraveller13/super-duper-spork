@@ -2,7 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-
 #EXTINF:10.0,
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/zott-1024-176106490.ts
 #EXTINF:10.0,
@@ -25,4 +24,4 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/zott-1024-176106498.ts
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/zott-1024-176106499.ts
 #EXTINF:10.0,
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/zott-1024-176106500.ts
-#EXT-X-ENDLIST
+
