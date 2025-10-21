@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1024x768,CODECS="avc1.4d401f,mp4a.40.2"
 https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/703e2687-7366-4a8f-a5c2-c614d7185f20:TPE2/master.m3u8
