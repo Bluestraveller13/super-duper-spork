@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=1000
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/index.m3u8
-#EXTINF:50,index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/index.m3u8
