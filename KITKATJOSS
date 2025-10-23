@@ -1233,6 +1233,10 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/PremierLeague2.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/wwe.png" group-title="Sports",WWE 1
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://tvmate.icu:8080/69NpyV/884735/11645
+
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports",Champions TV 1
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Sports",Champions TV 2
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Sports",Champions TV 3
