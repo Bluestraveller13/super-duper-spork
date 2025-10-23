@@ -854,8 +854,6 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/6Srm4tj.png" ,Bioskop Indonesia
 
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-id="maxstream" tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png", MAXSTREAM
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
