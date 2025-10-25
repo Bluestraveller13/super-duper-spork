@@ -1575,64 +1575,80 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
 
 <================================================= Mediacorp Singapore ======================================>
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://do2ibj89ih8kz.cloudfront.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Ch U" tvg-name="Channel U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Suria" tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Suria HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Vasantham HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png", CNA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 #EXTINF:-1 tvg-id="CNA" tvg-url="https://bit.ly/SingaporeEpg" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="Mediacorp Singapore",Channel News Asia
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 #EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="Mediacorp Singapore",Oktolidays
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment Tamil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="mediacorp-entertainment-english" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-english/poster_20240110_010825.jpg" group-title="Mediacorp Singapore",Mediacorp Entertainment – English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="mediacorp-entertainment-chinese" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-chinese/poster_20240102_185715.jpg" group-title="Mediacorp Singapore",Mediacorp Entertainment – Chinese
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="mediacorp-entertainment-tamil" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-tamil/poster_20240102_190221.jpg" group-title="Mediacorp Singapore",Mediacorp Entertainment – Tamil
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="hi-drama" tvg-logo="https://a.jsrdn.com/hls/23205/hi-drama/poster_20250127_201847.jpg" group-title="Mediacorp Singapore",hi Drama!
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-drama-roku/master.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-id="hi-vida" tvg-logo="https://a.jsrdn.com/hls/23205/hi-vida/poster_20250127_201837.jpg" group-title="Mediacorp Singapore",hi Vida!
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida-roku/master.m3u8
 
@@ -1643,11 +1659,19 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
 
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://e7.pngegg.com/pngimages/211/442/png-clipart-tv3-television-channel-television-show-broadcasting-qurban-television-angle-thumbnail.png" group-title="Malaysia",TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
@@ -1671,23 +1695,35 @@ https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/TV9.m3
 #EXTINF:-1 group-title="Malaysia" tvg-id=Dunia Sinema HD"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310",Dunia Sinema HD
 https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/DuniaSinema.m3u8
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV6" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -1786,9 +1822,11 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
+
 
 #EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Astro_Ria_HD_%282015%29.png",Astro Ria
 #KODIPROP:inputstreamaddon=inputstream.adaptive
