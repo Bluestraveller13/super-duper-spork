@@ -633,12 +633,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="Knowledge & Documentary",Outdoor Channel (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
-#EXTINF:-1 tvg-id="History.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="Knowledge & Documentary",History HD (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+###EXTVLCOPT:http-referrer=https://www.firstmedia.com
+###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+###EXTINF:-1 tvg-id="History.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="Knowledge & Documentary",History HD (FMX)
+###https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
