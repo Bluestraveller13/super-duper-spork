@@ -1395,11 +1395,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/wwe.png" group-title="Sports",WWE 1
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports",Champions TV 1
-https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stupid/refs/heads/main/ChampionTV1.m3u8
+https://github.com/hendroagung2904/Super-Dooper-Stupid/raw/refs/heads/main/ChampionTV1.m3u8
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Sports",Champions TV 2
-https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stupid/refs/heads/main/ChampionTV2.m3u8
+https://github.com/hendroagung2904/Super-Dooper-Stupid/raw/refs/heads/main/ChampionTV2.m3u8
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Sports",Champions TV 3
-https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stupid/refs/heads/main/ChampionTV3.m3u8
+https://github.com/hendroagung2904/Super-Dooper-Stupid/raw/refs/heads/main/ChampionTV3.m3u8
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Sports",Champions TV 5
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Sports",Champions TV 6
 #EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports",Premier League 
