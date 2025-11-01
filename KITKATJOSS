@@ -2358,7 +2358,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://www.indihometv.com/
 #EXTINF:-1 group-title="Local Channels" tvg-id="Jawapos TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/250px-Logo_Jawapos_TV.png",Jawapos TV
-https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://jitv.jogjaprov.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
