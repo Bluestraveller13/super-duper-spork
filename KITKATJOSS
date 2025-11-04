@@ -1788,13 +1788,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
 #EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg",TBNAsia 
 https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36,referer=https://www.indihometv.com/
 #EXTINF:-1 group-title="Christian Channels" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png",UChannel
-https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 
 
 <================================================= Mediacorp Singapore ======================================>
