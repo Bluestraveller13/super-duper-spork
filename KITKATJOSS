@@ -984,8 +984,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.m
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD (KITKAT)
+https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/TLC.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com/
