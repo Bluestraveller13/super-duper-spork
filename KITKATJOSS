@@ -1403,16 +1403,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 
 <==================================================== SPORTS ====================================================>
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-#EXTINF:-1 tvg-id="eVENT" tvg-name="Event" group-title="Sports" tvg-logo="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJmMnB1djl6Mno1MG90bndsczZoNXN0NGx5NXZnbHNjaTM2cGhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mWnDeIKilkwDcrM2VT/giphy.gif", WWE NETWORK
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
-
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
-#KODIPROP:inputstream.adaptive.livestream=false
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
 #KODIPROP:inputstream.adaptive.livestream=false
