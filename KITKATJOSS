@@ -356,7 +356,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO HD",HBO (KITKAT)
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBO.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/HBO.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
@@ -364,7 +364,7 @@ https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBO.m3
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO HD",HBO Hits (KITKAT)
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBOHits.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/HBOHits.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
@@ -372,7 +372,7 @@ https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBOHit
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO HD",HBO Family (KITKAT)
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBOFam.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/HBOFam.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
@@ -380,13 +380,13 @@ https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBOFam
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO HD",HBO Signature (KITKAT)
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HBOSignature.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/HBOSignature.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO HD",Cinemax (KITKAT)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://github.com/hendroagung2904/Super-Dooper-Stretchy/raw/refs/heads/main/Cinemax.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/Cinemax.m3u8
 
 <=============================================== Premium Movies =========================================>
 
@@ -701,7 +701,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge and Documentary",HGTV (KITKAT)
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HGTV.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/HGTV.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com/
@@ -709,7 +709,7 @@ https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/HGTV.m
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36,referer=https://www.indihometv.com/
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge and Documentary",Animal Planet (KITKAT)
-https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/AnimalPlanet.m3u8
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/AnimalPlanet.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
 ###EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -867,8 +867,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network (FMX)
-http://203.77.246.58:4500/udp/239.1.5.24:5000
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network (KITKAT)
+https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/AsianFoodNetwork.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
