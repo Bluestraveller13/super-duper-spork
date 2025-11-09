@@ -725,7 +725,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge and Documentary",Discovery Channel (FMX)
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Stupid/refs/heads/main/DiscoveryChannel.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge and Documentary",BBC Lifestyle
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/756/172/png-clipart-united-kingdom-director-general-of-the-bbc-bbc-worldwide-business-united-kingdom-text-trademark.png" group-title="Knowledge and Documentary",BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Knowledge and Documentary",Travel XP
