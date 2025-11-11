@@ -1467,13 +1467,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/in
 
 #EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/942/49942-SNAPSHOT-l.png" group-title="Christian Channels",LIFE
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/XQ7S6mCC_UcN7TbF28xwGbQ1PD8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" group-title="Christian Channels",Reformed21
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://pijar.tv/wp-content/uploads/2017/10/LOGO-PIJAR-TV-WARNA-e1509096043319.png" group-title="Christian Channels",PijarTV
 https://aps12.playlist.ttvnw.net/v1/playlist/CpsG-vaUxBqzuHQkPG9nnDY-KZG8WUWEr4rp3SNafNr8g8E2BAE03TSbwlg1o8LtG28fVJpagJ-_e9ESWkphiTKTQXqps2-VPOA596nm15iR6iAYT0wI3SY0njlo5fdvnndW-wzPFLvMQNMHWHaTE15XkG8Znic12DpD5iU0ajMpI0bmU3IltTMYKEkPR1s5mLn43oX_u_RO1j_5li23uLfe4GTkvXblKloKOpwV2c75c036vb86Xxqhf236VQeBAD5kCzY-U3oHFW0bki75Lj-UmenbsBldoRX4omdo8vGPGXiq-LraxVPWpG-GQJ2rpOustfRJ90S7jJ8-m24_GSFIo2fZnQuQMv3kV4mBtYcXXtwT5sI0KPITdQDzokP8DKVbXC99RJaOlsruSzHHjZeZhAeIkuzFq1b-GiIrFoOXKgkXtvn9vjc4JcIUVfvsWGm-H51jkfY1jxwH3xmQVE9NZIYUcbRqIvYvuKzN_4cXzU22knU4Aj8BO_ZOp0KyUhgwxV9NcxWQaKOa23gnjoNPJXBfHMCh6AabcvYjMnhjhZNrBA3_lLxhgYwk5pJ0BZBOM0D4YHl0ROOpuw0OZvh1QvvJqqLVnbNdWEoltGhujh2lYSfY-syHVXm6YCwtBJnJsdHCiFKNmuxZ0sAGRERJJ7THr3UBjD6fUogUny_toaLH_RCTI1o33CzqSiVmlVXejnERoPZBvNSzR-z5q7IXo7LAbC5efco07eqIzleio5zK7IrG1L5ZkAOF-4b6r9qJHMPde6G59UeAU7XS8vxBABscw_04waKpckyF9N8jtBGsIPGoRMAvERKFXwZWrat9KMlMOa4C9P38JQDCsl4lrdwBA2_ofl7_lyPkGKRpTc-Wv3-OTzv53CWT6iyhqytmz-GlRp6L63EHFWkpSlgszJWnYdwcJycucjkiFiIz5iqax698dEI8gv2-1TnSVGnRgrJmg0wJ6fM0M_GEr3p_USk7gDw-pmVg1kj3PVJrbjNt6M_7ChujRO7MXGsh9jLXTOrPEGHorYRQ5cYs1X9rLPu3CvpeEk1Q9TC4Ggzi0uLdImnoZkser70gASoJdXMtd2VzdC0yMNAN.m3u8
