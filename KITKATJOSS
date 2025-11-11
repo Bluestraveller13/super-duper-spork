@@ -787,9 +787,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="" tvg-logo=" tvg-logo="https://8upload.com/image/6857c3105b1a3/travelandlifestyletvhilay.png",Travel & Lifestyle TV
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bbf84203-cf98-43d7-8ea1-bde28a3a3272/5.m3u8
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/852/26/png-clipart-radio-and-television-of-portugal-rtp-acores-rtp1-antena-3-gallery-television-blue.png",RTP
-http://203.77.246.58:4500/udp/239.1.1.196:5000
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
