@@ -748,6 +748,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/
 #KODIPROP:network-caching=2000
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV (KITKAT)
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/main/WarnerTV.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com/
@@ -759,13 +760,6 @@ https://raw.githubusercontent.com/hendroagung2904/Super-Dooper-Smart/refs/heads/
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="Entertainment & LifeStyle",Hits Now (IDH)
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entertainment & LifeStyle",Food Network (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
