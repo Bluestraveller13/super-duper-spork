@@ -982,6 +982,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 <=========================================================== KIDS ================================================================================>
+#EXTINF:-1 cuid="239" tvg-name="Duck tv 🇪🇸🇺🇸" tvg-id="US3400003HI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20221214T045010SQUARE.png_20221214045011.png" group-logo="https://cdn-icons-png.freepik.com/512/3636/3636254.png" group-title="Kids",Duck TV
+https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito (IDH)
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
