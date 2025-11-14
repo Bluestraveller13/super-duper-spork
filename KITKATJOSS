@@ -281,7 +281,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTVLCOPT:http-referrer=https://garuda.tv/
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="Indonesia Channels",Garuda TV (ChannelFeed)
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 <=================================================== HBO Group ===========================================>
 
