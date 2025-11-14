@@ -674,6 +674,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 #EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Knowledge and Documentary",Global Trekker 
 https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
 
+
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/2017e527-15ce-4a89-acb0-6ad018d314fb/Global-Trekker_logo_primary.png" group-title="Knowledge and Documentary",Global Trekker 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b826a2e05a5a4922b64019c17345a020:a532aa3aaf1b2f32daa66b4d165056c6
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -698,16 +705,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Knowledge and Documentary" tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://tvepg.eu/img/serbia/logo/rt_documentary.png",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge and Documentary",Dens Learning & Knowledge (DensTV)
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
 
 <=============================== Entertainment & Lifestyle =================================================================>
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1247,7 +1247,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5 
 #EXTINF:-1 tvg-id="CNA" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="News",Channel News Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd 
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1277,6 +1283,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
 #EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="News",CGTN
 https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 
+#EXTINF:-1 tvg-id="CGTN.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="News",CGTN (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c2c7834abd740669637bc4b029c9aee:2f7808671f1a6f63ebd86850d8d7cc5f
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1284,12 +1296,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
 #EXTINF:-1 tvg-name="Bloomberg" tvg-id="BloombergTV.id" tvg-url="ttps://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png" group-title="News",Bloomberg
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
+#EXTINF:-1 tvg-name="Bloomberg" tvg-id="BloombergTV.id" tvg-url="ttps://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png" group-title="News",Bloomberg (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0d67e9e2641468d9daf3182c25bd40c:84663ccbdeba441f88c63d8573269fa1
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
 https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
+
+#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan.jp" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1305,10 +1329,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/in
 #EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News",FOX News
 https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mediampd/FOXNewsHD.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW (ChannelFeed)
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News",FOX News (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=132
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/444f3d7b909d470f9f5a55c781a79728/index.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=146
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1324,12 +1355,24 @@ https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
 #EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24 
 https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
 
+#EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24 (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0750d198f4824ea7bbb82beede8f55d3:352108d6c83c5ea32c42b4f7465ad3ee
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
 #EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews 
 https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=151
+https://d2tjypxxy769fn.cloudfront.net/out/v1/23af54d57d8a447dbf0621ec71d89e7e/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1338,12 +1381,24 @@ https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World 
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
 #EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World 
 https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
+
+#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4b5eab488e149e68f3e421615ffd0d2:2556a421a56e53ab9b6ccefdf464581e
+https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1353,12 +1408,11 @@ https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
 #EXTINF:-1 group-title="News" tvg-id="CNBCAsia.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="News" tvg-id="RTPInternacional.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_monocromaticoNegativo_vert_RGB.png",RTP Internacional (504p)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg",Russia Today (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=150
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
 
 <================================================== Christian Channels ==========================================>
 
