@@ -768,23 +768,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="Entertainment & LifeStyle",Lifetime 
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
 
-#EXTINF:-1 tvg-id="MuseumTVF.mv" tvg-name="Travel & Lifestyle TV" tvg-logo="https://travelnlifestyle.com/wp-content/uploads/2024/05/Travel-Lifestyle-Logo.png" group-title="Entertainment & LifeStyle",Travel & Lifestyle TV
-https://maldivesn.net/hilaytv/travelandlifestyle
-
-#EXTINF:-1 tvg-id="cookingch.mv" tvg-name="Cooking Channel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/dejq8qs-b4ffe795-5ad0-46d0-82ea-ea2ab15cd6ce.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lY2Q1MTI2My1iYjBmLTQ0NjUtYWY4Ni1mN2VkMjVlNThlNzAvZGVqcThxcy1iNGZmZTc5NS01YWQwLTQ2ZDAtODJlYS1lYTJhYjE1Y2Q2Y2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.76aCR2PN7A6QqMLUDVpV-P3ze7YMepDwfjK6QcE_RaA" group-title="Entertainment & LifeStyle",Cooking Channel
-https://maldivesn.net/hilaytv/cookingch
-
-###EXTVLCOPT:http-referrer=https://www.firstmedia.com
-###EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-###KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
-###EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
-##https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/ABCAustralia.m3u8
-###https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
-
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia (V+)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/ABCAustralia.m3u8
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -829,13 +824,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment & LifeStyle",TV5 Monde Style (DensTV)
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -849,9 +837,6 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
-
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="" tvg-logo="https://www.vhv.rs/dpng/d/271-2715906_fail-army-logo-png-transparent-png.png",Fail Army
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e/variant.m3u8?x-plex-token=Yf8rcYv-TynN5rDDxsDm&x-plex-advertising-identifier=&x-plex-client-identifier=b1863eb6-ffb4-4d5b-b0e6-d2495b21c7bc&x-plex-playback-id=p_185887b5-eae1-41c2-9b4b-92fab12363b7&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=141.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1760865104&url=e61b4cf1a6b1de95a5ef6c3f695e470a-42e85629528092086e3b6132391e23f1fd03dd5237e6c47161ae640b1ce1fc52880699e40e7eb1ab7b14afbc24d3d2bcdba7329a3d804b8acff299ae015a9c05d2f2c7738ca55fe1f43897d999f6f64258425fa9361701bb1aa507d57b632b863979fb624d86e7412c7ad1cf4c03b4c1c7ab4a19772145766ef7d4fd240d6217e90c0f12fec9fd366fc556288297e2aa2ad7b1caaa514766c2b15df9764be75a
 
 <========================================= Indonesian Entertainment & Movies ====================================================>
 
