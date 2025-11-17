@@ -1507,8 +1507,8 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml" tvg-id="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4f0a3c48958c43fc93c01b6b909bc2b4:c5594c541ef7f51c13a85e8e3168e0cb
+https://tglmp04.akamaized.net/out/v1/3620d085f3d14d17a3b1552f42036fe9/manifest.mpd
 
 #EXTINF:-1  tvg-id="Vasantham" group-title="Mediacorp Singapore" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
