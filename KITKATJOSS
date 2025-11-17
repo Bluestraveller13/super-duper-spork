@@ -1513,7 +1513,8 @@ https://tglmp04.akamaized.net/out/v1/3620d085f3d14d17a3b1552f42036fe9/manifest.m
 #EXTINF:-1  tvg-id="Vasantham" group-title="Mediacorp Singapore" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+https://tglmp03.akamaized.net/out/v1/a3bd2249fdd0439b855a8a0fb0885730/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
