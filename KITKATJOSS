@@ -761,14 +761,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/Rock
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
-#KODIPROP:inputstream.adaptive.use_secure_decoder=true
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
