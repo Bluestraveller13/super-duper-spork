@@ -1987,6 +1987,12 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_500000=10007-mp4a_
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png",Kawanua TV
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.imgur.com/mIDWIQk.png",JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -2004,7 +2010,7 @@ https://raw.githubusercontent.com/hendroagung2904/JejeVISION/refs/heads/main/Jaw
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/VEqQfTu.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1213012954.m3u8
 
 #EXTVLCOPT:http-referrer=https://jogjatv.tv/
