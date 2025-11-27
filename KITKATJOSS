@@ -2320,3 +2320,198 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 #EXTINF:-1 group-title="Moslem Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_TVMU_2025_03_17_15_03_28.png",TVMu
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685type=drm
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_Champions_TV_1.png" group-title="Sports",ChampionTV 1
+https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6686type=drm
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_Champions_TV_2.png" group-title="Sports",ChampionTV 2
+https://nextgenz.my.id/event/pidio/play.mpd?id=6686&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6786type=drm
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.png" group-title="Sports",ChampionTV 3
+https://nextgenz.my.id/event/pidio/play.mpd?id=6786&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182type=drm
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Champions_TV_5.png" group-title="Sports",ChampionTV 5
+https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183type=drm
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_Champions_TV_6.png" group-title="Sports",ChampionTV 6
+https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
+
+
+
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp3
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png",ASTRO FOOTBALL
+https://smart.946985.filegear-sg.me/smart.php?id=go_assp4
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2
+https://smart.946985.filegear-sg.me/smart.php?id=Assp2
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png",ASTRO PREMIER LEAGUE
+https://smart.946985.filegear-sg.me/smart.php?id=Assp1
+
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-1-cn.png",CCTV 1
+http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-2-cn.png",CCTV 2
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-3-cn.png",CCTV 3
+http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-4k-cn.png",CCTV 4K
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China"  tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png",CCTV 5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png",CCTV 5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png",CCTV 6
+http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-7-cn.png",CCTV 7
+http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-8-cn.png",CCTV 8
+http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://i.postimg.cc/Zqgwj3q4/ezgif-205983a8a234b267.png",CCTV 8K
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-9-cn.png",CCTV 9
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" group-title="China" group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-10-cn.png",CCTV 10
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-11-cn.png",CCTV 11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-12-cn.png",CCTV 12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-13-cn.png",CCTV 13
+http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-14-cn.png",CCTV 14
+http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-15-cn.png",CCTV 15
+http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-16-cn.png",CCTV 16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-17-cn.png",CCTV 17
+http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
+
+
+
