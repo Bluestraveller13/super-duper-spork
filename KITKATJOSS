@@ -419,7 +419,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignat
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax" group-title="HBO Group" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+EXTINF:-1 tvg-id="Cinemax" group-title="HBO Group" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
