@@ -963,7 +963,6 @@ http://103.180.118.5:9981/stream/channelid/1574481607
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd
 
-
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-Allplay-Ent_2025_10_24_15_48_50.jpg",AllPlay Ent
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/useeprime/manifest.mpd
 
