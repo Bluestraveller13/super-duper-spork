@@ -32,10 +32,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indonesia Channels",GTV
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/globaltv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar DIGITAL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -49,7 +45,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205type=drm
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 
-###https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
@@ -2493,6 +2489,68 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="China" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cctv-china-media-group-logo-png_seeklogo-424806.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+
+
+<=================================== DIGITAL TV ===================================>
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="DIGITAL TV",SCTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="DIGITAL TV",Indosiar DIGITAL
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/1200px-Logo_Trans_TV.png" group-title="DIGITAL TV",TransTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="DIGITAL TV",Trans7 DIGITAL
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="DIGITAL TV", MOJI TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="DIGITAL TV",Mentari TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/f/fd/20101206233144%21Antv_logo%282009%29.png" group-title="DIGITAL TV",ANTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="tvOne.id" group-title="DIGITAL TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://w7.pngwing.com/pngs/211/110/png-transparent-tvone-television-channel-streaming-media-youtube-youtube-television-text-logo.png",TVOne DIGITAL
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="DIGITAL TV",VTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/382/653/png-clipart-rtv-logo-television-channel-rajawali-corporation-rajawali-television-blue.png" group-title="DIGITAL TV",RTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/97833158?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="DIGITAL TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png",Metro TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Logo_GarudaTV_Primer_Flat_2025.svg/2560px-Logo_GarudaTV_Primer_Flat_2025.svg.png" group-title="DIGITAL TV",Garuda TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="DIGITAL TV",Nusantara TV DIGITAL
+http://103.170.33.11:9981/stream/channelid/133753?profile=pass
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MDTV.id" group-title="DIGITAL TV" tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV DIGITAL
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+
+
+
 
 
 
