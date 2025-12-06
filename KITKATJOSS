@@ -830,13 +830,16 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 
 <======================================================================= Entertainemnt & Lifestyle =====================================================================================================================================>
+
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
