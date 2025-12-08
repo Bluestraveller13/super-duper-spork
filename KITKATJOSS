@@ -1710,9 +1710,6 @@ https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mp
 #EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png",Kairos 
 https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
 
-
-<========================================================================= Christian Channels ====================================================================>
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1720,32 +1717,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
 #EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/1200px-TBN_logo_2015.jpg",TBNAsia 
 https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGVXJfajJIeE9lZ1BGUzB6ckpXdWpSazlWNU40ZUF6cFhYUWhWNUZiLVhidUY5T3JTc2l0Z2YzZHpEaVE0Wnh5Zi1HSlZkM3QyVmhNT1hKeWlGbWM2Wk5mVWJCV0MweDBJNVBEc2tWRkljaEEtUW5sSnVuOG9pQUM3VHp3Q1BkaE1kUVJSeXo0ZVZnNHEyTlB2SGItOWo0aWIyMG51V2VsbXRicVE2M29VNWpId2F2VlVEaDFmNzVGbTFER2RYOG1sb1h5SWIyNlljMkhOYmFqYmlPRnlCa3NXWU5CSjY0bGFlU1B0eHg5NHFuekE0Q2FrRkg0ak9WckV4VnpHRDZnS3kyYVFVeUFOSGpvVzRwanVUM1EzUmMyMFBlS3dWUDBuUTA3cXZKdUlYZnFaY0VOTS1jekxOVGlwYVkybFFpZFBPR0luUm1rRzhjd0V0cF85dGltdUk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRlVyX2oySHhPZWdQRlMwenJKV3VqUms5VjVONGVBenBYWFFoVjVGYi1YYnVGOU9yU3NpdGdmM2R6RGlRNFp4eWYtR0pWZDN0MlZoTU9YSnlpRm1jNlpOZlViQldDMHgwSTVQRHNrVkZJY2hBLVFubEp1bjhvaUFDN1R6d0NQZGhNZFFSUnl6NGVWZzRxMk5QdkhiLTlqNGliMjBudVdlbG10YnFRNjNvVTVqSHdhdlZVRGgxZjc1Rm0xREdkWDhtbG9YeUliMjZZYzJITmJhamJpT0Z5QmtzV1lOQko2NGxhZVNQdHh4OTRxbnpBNENha0ZINGpPVnJFeFZ6R0Q2Z0t5MmFRVXlBTkhqb1c0cGp1VDNRM1JjMjBQZUt3VlAwblEwN3F2SnVJWGZxWmNFTk0tY3pMTlRpcGFZMmxRaWRQT0dJblJta0c4Y3dFdHBfOXRpbXVJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=06kI4PIEBij6pT%2f1VMpDdVDROGg%3d
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",Channel 5 HD
-https://do2ibj89ih8kz.cloudfront.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png", Channel 8 HD
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Ch U" tvg-name="Channel U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png", Channel U HD
-https://do2ibj89ih8kz.cloudfront.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Suria" tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png", Suria HD
-https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-#EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png", Vasantham HD
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+<========================================================= Mediacorp Singapore ================================================>
 
 #EXTINF:-1 group-title="Mediacorp Singapore" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1768,21 +1741,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp Singapore",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-
-#EXTINF:-1 tvg-id="mediacorp-entertainment-english" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-english/poster_20240110_010825.jpg" group-title="Mediacorp Singapore",Mediacorp Entertainment – English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-
-#EXTINF:-1 tvg-id="mediacorp-entertainment-chinese" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-chinese/poster_20240102_185715.jpg" group-title="Mediacorp Singapore",Mediacorp Entertainment – Chinese
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-
-#EXTINF:-1 tvg-id="mediacorp-entertainment-tamil" tvg-logo="https://a.jsrdn.com/hls/23077/mediacorp-entertainment-tamil/poster_20240102_190221.jpg" group-title="Mediacorp Singapore",Mediacorp Entertainment – Tamil
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="hi-drama" tvg-logo="https://a.jsrdn.com/hls/23205/hi-drama/poster_20250127_201847.jpg" group-title="Mediacorp Singapore",hi Drama!
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-drama-roku/master.m3u8
-
-#EXTINF:-1 tvg-id="hi-vida" tvg-logo="https://a.jsrdn.com/hls/23205/hi-vida/poster_20250127_201837.jpg" group-title="Mediacorp Singapore",hi Vida!
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hi-vida-roku/master.m3u8
 
 
 <========================================================================== Malaysia ============================================================================>
