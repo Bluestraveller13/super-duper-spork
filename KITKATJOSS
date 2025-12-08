@@ -1953,6 +1953,9 @@ https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvfinance/manifest.mpd
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png",New TV Variety
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvvariety/manifest.mpd
 
+#EXTINF:-1 group-title="China" tvg-logo="https://w7.pngwing.com/pngs/128/482/png-transparent-tvb-network-vision-tvb-jade-%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0-tvb-classic-channel-vision-logo-television-text-logo.png",JadeTV
+http://cdn6.163189.xyz/163189/fct4k
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
