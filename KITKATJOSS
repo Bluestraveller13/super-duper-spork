@@ -1870,13 +1870,6 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTINF:-1 tvg-id="" group-title="Malaysia" ch-number="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Astro_Prima_%282024%29.png",Astro Prima
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Prima.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#EXTINF:-1 tvg-id="404" tvg-name="Astro Boo" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Malaysia",Astro Boo
-https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/default_ott.mpd?astro=true&aws.sessionId=24974f7d-2b48-4af0-b964-dabfef44ff01
-
-
 <===================================================================== Brunei =======================================================================================>
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
