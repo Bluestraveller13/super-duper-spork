@@ -1188,9 +1188,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-id="Aniplus" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png",Aniplus
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/aniplus/manifest.mpd
-
-#EXTINF:-1 group-title="Kids" tvg-id="Aniplus" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
