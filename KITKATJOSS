@@ -631,7 +631,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ATV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1024px-ATV_logo_2020.png",ATV
-http://103.180.118.5:9981/stream/channelid/1457201262
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/atv/manifest.mpd
 
 <========================================================================= Korean Channels ===============================================================================>
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
