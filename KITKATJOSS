@@ -1415,6 +1415,8 @@ http://cdn6.163189.xyz/163189/amty
 
 
 <======================================================================= News =========================================================================================================================>
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="News", Sea Today
+https://flv.intechmedia.net/live/ch106.m3u8|user-agent=Mozilla/5.0
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
