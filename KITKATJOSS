@@ -509,6 +509,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi",KIX (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
+#EXTINF:-1 group-title="Premium Movies" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi",KIX (V+)
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
