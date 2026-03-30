@@ -1141,7 +1141,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #EXTINF:-1 tvg-id="CBeebies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p0fpxchz.png" group-title="Kids",Cbeebies (V+)
 https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 
-#EXTINF:-1 tvg-id="My Kidz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png" group-title="Kids",MyKids (DensTV)
+#EXTINF:-1 tvg-id="My Kidz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png" group-title="Kids",MyKidz
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
