@@ -2701,6 +2701,8 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rn7LcTg/ezgif-8cb9114736a814dd.png" group-title="Knowledge & Documentary",CGTN DISCOVERING CHINA
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-soccer-cn.png" group-title="Sports",CCTV SOCCER
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 
 
