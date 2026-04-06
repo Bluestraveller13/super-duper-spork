@@ -840,6 +840,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/AFN.m3u8
 
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://i.postimg.cc/pdBP8nkd/ezgif-8520dcdbeeb04407.png",MAX EATS
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
