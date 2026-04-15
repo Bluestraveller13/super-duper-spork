@@ -2308,15 +2308,68 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 <== Special Thanks to Apistech for the EPG Source ===>
 <=================================== Trial Channel ===================================>
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-1-nz.png" group-title="Sports",SKY SPORT 1 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://sky-nz.b-cdn.net/skysport1/master.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-golf-and-tennis-cn.png" group-title="Sports",CCTV GOLF & TENNIS
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-2-nz.png" group-title="Sports",SKY SPORT 2 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+https://sky-nz.b-cdn.net/skysport2/master.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-world-geography-cn.png" group-title="Knowledge and Documentary",CCTV WORLD GEOGRAPHY
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-3-nz.png" group-title="Sports",SKY SPORT 3 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://sky-nz.b-cdn.net/skysport3/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rn7LcTg/ezgif-8cb9114736a814dd.png" group-title="Knowledge and Documentary",CGTN DISCOVERING CHINA
-https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-4-nz.png" group-title="Sports",SKY SPORT 4 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
+https://sky-nz.b-cdn.net/skysport4/master.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-5-nz.png" group-title="Sports",SKY SPORT 5 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
+https://sky-nz.b-cdn.net/skysport5/master.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-6-nz.png" group-title="Sports",SKY SPORT 6 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
+https://sky-nz.b-cdn.net/skysport6/master.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-7-nz.png" group-title="Sports",SKY SPORT 7 NZ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
+https://sky-nz.b-cdn.net/skysport7/master.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-8-nz.png" group-title="Sports",SKY SPORT 8 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sky-nz.b-cdn.net/skysport8/master.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-9-nz.png" group-title="Sports",SKY SPORT 9 NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
+https://sky-nz.b-cdn.net/skysport9/master.mpd
+##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/579818.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-select-nz.png" group-title="Sports",SKY SPORT SELECT NZ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
+https://sky-nz.b-cdn.net/skysportselect/master.mpd
+##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/579817.m3u8
+##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/579816.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="Sports",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
