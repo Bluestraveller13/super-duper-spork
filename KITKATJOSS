@@ -2348,28 +2348,12 @@ https://sky-nz.b-cdn.net/skysport8/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
 https://sky-nz.b-cdn.net/skysport9/master.mpd
-##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/579818.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-select-nz.png" group-title="Sports",SKY SPORT SELECT NZ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
 https://sky-nz.b-cdn.net/skysportselect/master.mpd
-##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/579817.m3u8
-##http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/579816.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="Sports",CHAMPIONS TV 1
-#EXTINF:-1 tvg-id="Champions.TV.1.id" tvg-name="" tvg-logo="https://indihomejogja.co.id/wp-content/uploads/2024/01/champions-tv-di-IndiHome-Minipack.png" group-title="Sports",CHAMPIONS TV 1
-#EXTINF:-1 tvg-id="Champions.TV.2.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png/revision/latest/scale-to-width-down/1200?cb=20210823120818" group-title="Sports",CHAMPIONS TV 2
-##EXTINF:-1 tvg-id="Champions.TV.3.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Champions_TV_3.png" group-title="Sports",CHAMPIONS TV 3
-#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Champions_TV_5.png" group-title="Sports",CHAMPIONS TV 5
-#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports",CHAMPIONS TV 6
 
 
 
