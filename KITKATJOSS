@@ -1290,6 +1290,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="beIN Sports 3 Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",beIN Sports 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="Eurosport.id" tvg-name="Eurosport" tvg-logo="https://w1.pngwing.com/pngs/324/807/png-transparent-logo-blue-organization-point-eurosport-text-line-area.png" group-title="Sports",EUROSPORT
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
 <======================================================================= News =========================================================================================================================>
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
