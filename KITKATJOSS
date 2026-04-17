@@ -2378,8 +2378,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
 <== Special Thanks to Apistech for the EPG Source ===>
 <=================================== Trial Channel ===================================>
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -2391,8 +2389,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9MTc5MzgmdHlwZT1kYXNo&code=777 
  
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -2403,8 +2399,6 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9NjY4NiZ0eXBlPWRhc2g=&code=777 
  
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -2416,8 +2410,6 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9Njc4NiZ0eXBlPWRhc2g=&code=777 
  
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
@@ -2428,8 +2420,6 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 #EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Champions_TV_5.png" group-title="Sports",CHAMPIONS TV 5
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9OTE4MiZ0eXBlPWRhc2g=&code=777 
  
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
