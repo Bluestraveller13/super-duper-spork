@@ -704,7 +704,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_%282019-.n.v.%29.png/" group-title="Entertainment & LifeStyle",Asian Food Network 
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_%282019-.n.v.%29.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 https://cdn08jtedge.indihometv.com/dassdvr/130/afc/manifest_wuseetv.mpd
 
 
@@ -712,7 +712,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/afc/manifest_wuseetv.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="Entertainment & LifeStyle",Food Network 
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://e7.pngegg.com/pngimages/207/838/png-clipart-logo-food-network-font-food-logo-food-label.png" group-title="Entertainment & LifeStyle",Food Network 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
