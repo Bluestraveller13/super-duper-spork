@@ -2337,7 +2337,7 @@ https://7pal.short.gy/tsn1ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="" group-title="Sports", TSN 2
+#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/1280px-TSN2_New_Logo.svg.png" group-title="Sports", TSN 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%202%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ1LnRz
