@@ -2414,7 +2414,6 @@ https://7pal.short.gy/tntspts4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI ACEH
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_900000=10005-mp4a_96000=20001.m3u8
@@ -2422,7 +2421,6 @@ https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_900000=10005-mp4a_96
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI BANGKA BELITUNG
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_900000=10002-mp4a_96000=20001.m3u8
@@ -2430,7 +2428,6 @@ https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_900000=10002-mp4a_
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI BENGKULU
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_900000=10005-mp4a_96000=20001.m3u8
@@ -2438,7 +2435,6 @@ https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_900000=10005
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI JAMBI
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
@@ -2446,7 +2442,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI LAMPUNG
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_900000=10007-mp4a_96000=20002.m3u8
@@ -2454,7 +2449,6 @@ https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_900000=10007-m
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI JAWA BARAT
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10006-mp4a_96000_eng=20000.m3u8
@@ -2462,7 +2456,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_900000=10006-mp4a_
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI JAWA TENGAH
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_900000=10007-mp4a_96000=20001.m3u8
@@ -2470,7 +2463,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_900000=10007-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI JAWA TIMUR
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_900000=10005-mp4a_96000=20001.m3u8
@@ -2478,7 +2470,6 @@ https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_900000=10005-mp4a_
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN BARAT
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_900000=10005-mp4a_96000=20003.m3u8
@@ -2486,7 +2477,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_900000=10005-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN SELATAN
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_500000=10007-mp4a_64000=20002.m3u8
@@ -2494,7 +2484,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_500000=10007-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN TENGAH
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_900000=10008-mp4a_96000=20001.m3u8
@@ -2502,7 +2491,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_900000=10008-m
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI KALIMANTAN TIMUR
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_250000=10008-mp4a_64000=20002.m3u8
@@ -2510,7 +2498,6 @@ https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_250000=10008-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI GORONTALO
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_900000=10005-mp4a_96000=20001.m3u8
@@ -2518,7 +2505,6 @@ https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_900000=100
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI BARAT
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_900000=10002-mp4a_96000=20001.m3u8
@@ -2526,7 +2512,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_900000=10002-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI SELATAN
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_900000=10002-mp4a_96000=20001.m3u8
@@ -2534,7 +2519,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_900000=10002-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGAH
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_900000=10002-mp4a_96000=20002.m3u8
@@ -2542,7 +2526,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_900000=10002-m
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGGARA
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_900000=10002-mp4a_96000=20001.m3u8
@@ -2550,7 +2533,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_900000=10002-mp4
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI UTARA
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_900000=10002-mp4a_96000=20001.m3u8
@@ -2558,7 +2540,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_900000=10002-mp4a_
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI BALI
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_500000=10001-mp4a_64000=20002.m3u8
@@ -2566,7 +2547,6 @@ https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_500000=10001-mp4a_64
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI NTT
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_900000=10002-mp4a_96000=20001.m3u8
@@ -2574,7 +2554,6 @@ https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_900000=10002-mp4a_9600
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI PAPUA
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_900000=10002-mp4a_96000=20001.m3u8
