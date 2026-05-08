@@ -2544,4 +2544,5 @@ https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_900000=10002-m
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
-#EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGAH
+#EXTINF:-1 tvg-id="TVRI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="TVRI GROUP",TVRI SULAWESI TENGGARA
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_900000=10002-mp4a_96000=20001.m3u8
