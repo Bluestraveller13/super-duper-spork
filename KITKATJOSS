@@ -280,8 +280,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 ##EXTINF:-1 tvg-id="HBO Signature" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
 ##http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
-http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+###EXTINF:-1 tvg-id="CINEMAX" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
+###http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
