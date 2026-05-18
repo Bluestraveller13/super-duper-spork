@@ -118,8 +118,11 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+###EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",iNews (V+)
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",iNews (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
@@ -691,13 +694,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/in
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 <======================================================================= Entertainemnt & Lifestyle =====================================================================================================================================>
 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
+https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
@@ -862,13 +863,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 
 <==================================================================== Indonesian Entertainment & Movies ==============================================================================>
 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indonesian Entertainment & Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",Max Reels
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
@@ -890,15 +889,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MAXStreamTV_logo.png",Max Stream
 https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Indonesian Entertainment & Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest_wuseetv.mpd
+https://indihuy.streamized.net/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
