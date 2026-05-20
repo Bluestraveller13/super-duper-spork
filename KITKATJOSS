@@ -743,17 +743,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_%282019-.n.v.%29.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
-
   
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_%282019-.n.v.%29.png" group-title="Entertainment & LifeStyle",Asian Food Network 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
-
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
