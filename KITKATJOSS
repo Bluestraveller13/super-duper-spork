@@ -997,12 +997,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-3277707030000000.mpd
 https://indihuy.streamized.net/atm/DASH/boomerang/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1BSN7gxmPWYCAKJgA9aH4yNuERpTvs4uiX:cdd48fa884dc0c3a3f85aeebca13d444
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.pngall.com/wp-content/uploads/13/Cartoon-Network-Logo-PNG-Image.png" group-title="Kids Channel" tvg-id="Cartoon Network" , Cartoon Network 
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
