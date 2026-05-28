@@ -856,12 +856,8 @@ KODIPROP:inputstream.adaptive.license_key=8e1901f646584b92af0a1a4406ffce23:7d1ca
 #EXTINF:-1 tvg-id="TV5Monde" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml group-title="Entertainment & LifeStyle" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde (V+)
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
+https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
 
 <==================================================================== Indonesian Entertainment & Movies ==============================================================================>
 
@@ -869,7 +865,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indonesian Entertainment & Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",Max Reels
-https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
@@ -879,7 +875,7 @@ https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-logo="https://images.indihometv.com/tvposter/flik.png",Flik
-https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
+###https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://maxstream.tv/
@@ -889,8 +885,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MAXStreamTV_logo.png",Max Stream
-https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
-
+##https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
