@@ -33,6 +33,8 @@ http://77.137.40.221:8000/play/k01b
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="WorldCup 2026",YesSport-5
 http://77.137.40.221:8000/play/k01c
 
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="WorldCup 2026",YesSport Gold
+http://77.137.40.221:8000/play/k03w
 
 
 
