@@ -95,6 +95,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar 
 https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
@@ -168,6 +170,8 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=875
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",iNews (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/BmeGg2IWkB_FAVPDviCk8gP8qcw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5409/c40666.png",iNews
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
@@ -210,6 +214,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia (ChannelFeed)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w766556031_b384000_sleng.m3u8
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="SindoNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://nabelsakha.com/wp-content/uploads/2023/10/Sindonews.png",SindoNews
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
@@ -279,6 +285,8 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Indonesia Channels",ANTV HD (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Antara_%28news_agency%29_logo.svg/1280px-Antara_%28news_agency%29_logo.svg.png" group-title="Indonesia Channels",Antara TV
 https://cdnbal1.indihometv.com/atm/DASH/antara/antara-avc1_2500000=7-3277707030000000.mpd
 
@@ -326,18 +334,28 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="HBO" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
 https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="HBO Hits" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="HBO Family" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
 https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="HBO Signature" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature
 https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="CINEMAX" group-title="HBO Group" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
@@ -415,6 +433,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTINF:-1 tvg-id="AXN" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="Premium Movies",AXN (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="AXN" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="Premium Movies",AXN
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 
@@ -712,6 +732,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-id="Animal Planet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Knowledge and Documentary",Animal Planet 
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge and Documentary",Discovery Channel 
 https://cdnbal1.indihometv.com/atm/DASH/disco/disco-avc1_2500000=7-3277707030000000.mpd
 
@@ -751,6 +773,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 <======================================================================= Entertainemnt & Lifestyle =====================================================================================================================================>
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
 https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
@@ -890,13 +914,15 @@ KODIPROP:inputstream.adaptive.license_key=8e1901f646584b92af0a1a4406ffce23:7d1ca
 #EXTINF:-1 tvg-id="TV5Monde" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml group-title="Entertainment & LifeStyle" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde (V+)
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
 https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-3277707030000000.mpd
 
 <==================================================================== Indonesian Entertainment & Movies ==============================================================================>
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indonesian Entertainment & Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",Max Reels
 https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
 #
@@ -1027,7 +1053,8 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af
 #KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
 
-
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="Cartoonito" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Kids Channel" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito 
 https://cdnbal1.indihometv.com/atm/DASH/boomerang/boomerang-avc1_2500000=7-3277707030000000.mpd
 
@@ -1059,6 +1086,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTINF:-1 tvg-id="Buddy Star" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="Kids Channel",Buddy Star (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids
 https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
@@ -1117,6 +1146,8 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
 #EXTINF:-1 tvg-id="Dunia Anak" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_duniaanak.png",Dunia Anak
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest_wuseetv.mpd
 
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
 #EXTINF:-1 tvg-id="Mykidz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/M_Kidz.png/revision/latest?cb=20200201131221" group-title="Kids Channel",MyKidz
 https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
