@@ -3,6 +3,10 @@
 
 <============================================== WorldCup 2026 ===========================================================>
 
+
+#EXTINF:-1 group-title="WorldCup 2026" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/960px-TSN1.svg.png",TSN 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6492/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://iili.io/KYJqv0G.png" group-title="WorldCup 2026",Fox Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
