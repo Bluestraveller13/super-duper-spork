@@ -842,18 +842,16 @@ https://cdnbal1.indihometv.com/atm/DASH/fashiontv/fashiontv-avc1_2500000=7-32777
 
 <==================================================================== Indonesian Entertainment & Movies ==============================================================================>
 
-#KODIPROP:inputstream.adaptive.assured_buffer_length=30
-#KODIPROP:inputstream.adaptive.max_buffer_length=60
-#EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indonesian Entertainment & Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",Max Reels
-https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
-
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Indonesian Entertainment & Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia
-
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTINF:-1 tvg-id="IMC" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://images.indihometv.com/tvposter/imc.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#KODIPROP:inputstream.adaptive.assured_buffer_length=30
+#KODIPROP:inputstream.adaptive.max_buffer_length=60
+#EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indonesian Entertainment & Movies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",Max Reels
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=7-3277707030000000.mpd
 
 #EXTVLCOPT:http-referrer=https://m.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0F
