@@ -2,6 +2,9 @@
 
 
 <============================================== WorldCup 2026 ===========================================================>
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
 #EXTINF:-1 group-title="WorldCup 2026" tvg-url="" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png",FUSSBALLTV 1
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
 
