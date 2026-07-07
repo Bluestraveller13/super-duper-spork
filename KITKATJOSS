@@ -3,6 +3,14 @@ url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs
 
 
 <============================================== WorldCup 2026 ===========================================================>
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",CazeTV
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CazeTV.m3u8
+
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",CCTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026", FIFA WORLD CUP 2026
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
@@ -29,8 +37,7 @@ https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/eba744ff2f9d846cf46d05c212eb4380763d1ae5/s2/1745092.m3u8
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",CazeTV
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/CazeTV.m3u8
+
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026",CT SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
