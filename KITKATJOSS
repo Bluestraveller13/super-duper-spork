@@ -9,14 +9,14 @@ url-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026", FIFA WORLD CUP 2026 3
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026", FIFA WORLD CUP 2026 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026", FIFA WORLD CUP 2026 4
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="WorldCup 2026", FIFA WORLD CUP 2026 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
