@@ -8,7 +8,7 @@
 https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/1/live.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WorldCup 2026", WORLD CUP 2026 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"65006bc6637e7a291061f45870a04e81":"0b50bfea6301df542eb9efcca75d5ec8","02b07f6394293c409350cded71ce3654":"9e03072c3b243bbe9aba03fce2f5cfa4"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/1312/1/live.mpd
 
