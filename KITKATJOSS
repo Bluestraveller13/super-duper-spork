@@ -2917,7 +2917,6 @@ https://atemeshield1-voe.sysln.id/live/eds/FOXNewsHD/mediampd/FOXNewsHD.mpd
 #EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW 
 https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
 
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
