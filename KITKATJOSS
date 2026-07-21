@@ -574,6 +574,15 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTINF:-1 group-title="Korean Channels" tvg-id="ONE" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg",ONE (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_008/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Korean Channels",K-DRAMA+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=425
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_009/lg_channels/img/default/channel_logo/channel_logo.png" group-title="Korean Channels",NEW KMOVIES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
+
 <================================================== Knowledge & Documentary ===================================================================================================================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -710,6 +719,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_%282019-.n.v.%29.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 tvg-logo="" group-title="Entertainment & LifeStyle",NEW KFOOD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7605
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="Entertainment & LifeStyle",CHINA TRAVEL
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
