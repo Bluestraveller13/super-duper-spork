@@ -227,6 +227,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Indonesia Channels",DAAI TV (Channel Feed)
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
