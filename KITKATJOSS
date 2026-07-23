@@ -197,7 +197,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia (ChannelFeed)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w766556031_b384000_sleng.m3u8
+
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w790314913_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzMyMDM5MDcmd293emF0b2tlbmhhc2g9VmZBcmxvNTlNYUVhcWNjMnlna05qeU1MS3NGdjdyd0l5UGpnRHZuU2dhST0=.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
