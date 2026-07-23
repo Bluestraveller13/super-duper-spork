@@ -343,7 +343,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-327770703
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-id="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  group-title="Indonesia Channels",CNBC Indonesia (ChannelFeed)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w800170674_b384000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1679700268_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzMyNzAwMzYmd293emF0b2tlbmhhc2g9Qjg3M2piOE1FSEJBaVlwazk2OWVOdnRKd0dSWFpmMFEtT19UaDl4X1VLST0=.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
