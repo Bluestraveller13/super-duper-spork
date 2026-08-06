@@ -1075,38 +1075,31 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Sports",TSN SPORTS 5
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-
-#EXTINF:-1 group-title="Sports"tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image.jpg",EuroSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image.jpg",EuroSport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
 #EXTINF:-1 tvg-id="SPOTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #EXTINF:-1 tvg-id="SPOTV 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SHAREEXT@ MPD || SPORTS", FUBO SPORTS 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
+ 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SHAREEXT@ MPD || SPORTS", FUBO SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",HBO Boxing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2158,14 +2151,14 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-32777070300
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/KitKat_Logo_United_States_2024.png",Z Bioskop
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=c53012b08edf478187064665dde647cb:5390bb924b102d566b9e59afbdc08fab
 #EXTINF:-1 tvg-id="ChampionsGolf1HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/418.png" group-title="Sports",CHAMPIONS GOLF 1 HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+ #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_key=b2fbd6358a344dcba331c7c91742cd34:ee183e1a1b971b5a2f764c192ae52087
