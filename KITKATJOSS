@@ -1635,29 +1635,29 @@ http://69.30.245.50/live/cctv3.m3u8
 http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png" group-title="China", CCTV 5 
 http://69.30.245.50/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-6-cn.png" group-title="China", CCTV 6 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-6-cn.png" group-title="China", CCTV 6 
 http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-7-cn.png" group-title="China", CCTV 7 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-7-cn.png" group-title="China", CCTV 7 
 http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-8-cn.png" group-title="China", CCTV 8 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-8-cn.png" group-title="China", CCTV 8 
 http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-9-cn.png" group-title="China", CCTV 9 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-9-cn.png" group-title="China", CCTV 9 
 http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-10-cn.png" group-title="China", CCTV 10 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-10-cn.png" group-title="China", CCTV 10 
 http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-11-cn.png" group-title="China", CCTV 11 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-11-cn.png" group-title="China", CCTV 11 
 http://69.30.245.50/live/cctv11.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-12-cn.png" group-title="China", CCTV 12 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-12-cn.png" group-title="China", CCTV 12 
 http://69.30.245.50/live/cctv12.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-13-cn.png" group-title="China", CCTV 13 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-13-cn.png" group-title="China", CCTV 13 
 http://69.30.245.50/live/cctv13.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-14-cn.png" group-title="China", CCTV 14 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-14-cn.png" group-title="China", CCTV 14 
 http://69.30.245.50/live/cctv14.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-15-cn.png" group-title="China", CCTV 15 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-15-cn.png" group-title="China", CCTV 15 
 http://69.30.245.50/live/cctv15.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-16-cn.png" group-title="China", CCTV 16 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-16-cn.png" group-title="China", CCTV 16 
 http://69.30.245.50/live/cctv16.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-17-cn.png" group-title="China", CCTV 17 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-17-cn.png" group-title="China", CCTV 17 
 http://69.30.245.50/live/cctv17.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-europe-cn.png",CCTV 4 EUROPE
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
