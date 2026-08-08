@@ -35,6 +35,9 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv|User-Agent=Mozilla/5.0 (Windows NT 10
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/stream.mpd?hdntl=exp=1786210895~acl=/stream/205/file/stream.mpd!/stream/205/file/*/aac/*!/stream/205/file/*/*-2160p/*!/stream/205/file/*/*-1440p/*!/stream/205/file/*/*-1080p/*!/stream/205/file/*/*-720p/*!/stream/205/file/*/*-480p/*!/stream/205/file/*/*-360p/*~id=68989854~data=hdntl~hmac=d164a351d7515f2630b9f50d9fa8b8dccedf084d530987e2d8cc075469f3cdfb
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
