@@ -32,6 +32,11 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv|User-Agent=Mozilla/5.0 (Windows NT 10
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar
 http://rjcf.ofztvxv.top:8080/live/vip4111774539023/b2cd7c34176f/34327.ts
 
+#EXTVLCOPT:network-caching=3000
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar (TEST)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Indosiar.m3u8
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-referrer=https://20.detik.com/
