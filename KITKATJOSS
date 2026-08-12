@@ -853,7 +853,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #==================================================================== Indonesian Entertainment & Movies ==============================================================================#
 
 #EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Indonesian Entertainment & Movies",BIOSKOP INDONESIA
-https://202.150.161.212:5000/live/channel35/playlist.m3u8
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
