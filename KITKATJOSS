@@ -319,6 +319,9 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/LOGO/blob/main/KitkatMovie6logo.png?raw=true" group-title="Premium Movies",KITKAT MOVIE 6
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie6.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/LOGO/blob/main/KitkatMovie7logo.png?raw=true" group-title="Premium Movies",KITKAT MOVIE 7
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovies7.m3u8
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="USA.HALLMARK" tvg-name="USA HALLMARK" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Hallmark-Channel-Logo-Vector.svg-.png" group-title="Premium Movies",USA HALLMARK
