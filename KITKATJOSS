@@ -294,29 +294,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 #======================KITKAT MOVIE GROUP =========================================#
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/super-duper-spork/blob/main/KitkatMovie1logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 1
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/super-duper-spork/blob/main/KitkatMovie2logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 2
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/super-duper-spork/blob/main/KitkatMovie3logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 3
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/super-duper-spork/blob/main/KitkatMovie4logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 4
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/super-duper-spork/blob/main/KitkatMovie5logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 5
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/LOGO/blob/main/KitkatMovie6logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 6
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovie6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://github.com/Bluestraveller13/LOGO/blob/main/KitkatMovie7logo.png?raw=true" group-title="Kitkat Movie Group",KITKAT MOVIE 7
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/KitkatMovies7.m3u8
-
-
-
 #================================================================================= Premium Movies ============================================================================================#
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -372,11 +349,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="Galaxy Premium" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id" group-title="Premium Movies",Galaxy Premium (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="USA.HALLMARK" tvg-name="USA HALLMARK" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Hallmark-Channel-Logo-Vector.svg-.png" group-title="Premium Movies",USA HALLMARK
-https://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -559,7 +531,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=74
 #EXTINF:-1 tvg-id="ONE" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png" group-title="Korean Channels",ONE (V+)
-https://ayo.maling.pl/Vision/index.mpd?id=74
+##https://ayo.maling.pl/Vision/index.mpd?id=74
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
