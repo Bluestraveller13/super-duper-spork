@@ -33,25 +33,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-id="SCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Indonesia Channels",SCTV 
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.default_url=http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
-#KODIPROP:inputstream.ffmpegdirect.playback_as_live=true
-#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts?utc={utc}&lutc={lutc}
-#KODIPROP:inputstream.ffmpegdirect.catchup_url_near_live_format_string=http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts?utc={utc}&lutc={lutc}
-#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_start_time=0
-#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_end_time=0
-#KODIPROP:inputstream.ffmpegdirect.catchup_buffer_offset=0
-#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=1
-#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=false
-#KODIPROP:inputstream.ffmpegdirect.timezone_shift=25200
-#KODIPROP:inputstream.ffmpegdirect.default_programme_duration=14400
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar 
 http://31.43.191.125:8080/live/VIP019301734188047280/7bce5254f13d/34327.ts
-
 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
