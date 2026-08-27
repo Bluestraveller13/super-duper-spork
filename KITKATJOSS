@@ -2633,10 +2633,10 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/master.mpd
 
 #=================================== TVRI Group =======================================>
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-#EXTINF:-1 tvg-id="TVRINTB.in" tvg-logo="https://iili.io/JmF1e14.png" group-title="Indonesia;Lainnya;REGIONAL" http-referrer="" http-user-agent="",TVRI NTB
+#EXTINF:-1 tvg-id="TVRINTB.in" tvg-logo="https://iili.io/JmF1e14.png" group-title="TVRI Group" http-referrer="" http-user-agent="",TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
-#EXTINF:-1 tvg-id="TVRINTT.in" tvg-logo="https://iili.io/JmF1gp9.png" group-title="Indonesia;Lainnya;REGIONAL" http-referrer="" http-user-agent="",TVRI NTT
+#EXTINF:-1 tvg-id="TVRINTT.in" tvg-logo="https://iili.io/JmF1gp9.png" group-title="TVRI Group" http-referrer="" http-user-agent="",TVRI NTT
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
 #EXTINF:-1 tvg-id="TVRIAceh.in" tvg-logo="https://iili.io/JmF1BWb.png" group-title="TVRI Group" http-referrer="" http-user-agent="",TVRI Aceh
