@@ -1146,6 +1146,11 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #======================================================================= News =========================================================================================================================#
 #============================================================== News =================================================================================================#
 
+#EXTINF:-1 tvg-id="mjh-abc-news" tvg-logo="" group-title="News",ABC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b89ee4ebea44296a1bba97a447c0eeb:c85e224f241097798b91b93a310b0dd8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
