@@ -135,15 +135,9 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="TVOne" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne (DensTV)
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFZPTkU/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#EXTVLCOPT:http-origin=https://www.cubmu.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia (ChannelFeed)
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Q05OaS1teQ/manifest.mpd
+https://transdetik.stbbh43.workers.dev/cnn.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
