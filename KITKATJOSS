@@ -775,11 +775,17 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/RmF
 #EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Indonesian Entertainment & Movies",BIOSKOP INDONESIA
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Bioskop.Indonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Indonesian Entertainment & Movies",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-#EXTINF:-1 tvg-id="IMC" tvg-name="Bioskop Indonesia" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_imc.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel
+#EXTINF:-1 tvg-id="IMC.id@SD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_imc.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
