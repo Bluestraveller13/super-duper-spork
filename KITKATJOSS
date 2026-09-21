@@ -8,7 +8,7 @@
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
 #EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (Transcorp) 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd
@@ -22,7 +22,7 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302297
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd
@@ -36,13 +36,13 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302278
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-id="GTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",GTV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd
@@ -57,7 +57,7 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 (Transcorp) 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
@@ -79,7 +79,7 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302301.m3u8
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-id="SCTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="Indonesia Channels",SCTV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd
@@ -92,13 +92,13 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302264.m3u8
 https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 tvg-id="Indosiar.id@SDr" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="Indonesia Channels",Indosiar (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id@HD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="Indonesia Channels",MDTV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd
@@ -117,7 +117,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 tvg-id="ANTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Indonesia Channels",ANTV HD (Transcorp) 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd
@@ -136,36 +136,36 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="Indonesia Channels",Kompas TV HD (Transcorp) 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79f8g.png" group-title="HBO Group",HBO (Transcorp)
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLW15/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="HBOHitsAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79nwv.png" group-title="HBO Group",HBO Hits (Transcorp)
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPIEhpdHM/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79IMN.png" group-title="HBO Group",HBO Signature (Transcorp)
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79otR.png" group-title="HBO Group",HBO Family (Transcorp)
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://iili.io/Ju79znp.png" group-title="HBO Group",Cinemax (Transcorp)
@@ -180,7 +180,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="Indonesia Channels",Metro TV (Transcorp) 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd
@@ -191,7 +191,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd
@@ -204,7 +204,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd
@@ -217,7 +217,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia Channels",CNBC Indonesia (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd
@@ -272,7 +272,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="Indonesia Channels",RTV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/cnR2IENobmw/manifest.mpd
@@ -308,7 +308,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id@SD" tvg-url="" tvg-logo="https://img.favpng.com/5/15/14/beritasatu-com-logo-beritasatu-media-holdings-news-png-favpng-ascxjWXRYnY9w2tGEsZusEmJa.jpg" group-title="Indonesia Channels",Berita Satu (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd
@@ -413,7 +413,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VGhyaWxs/manifest.mpd
@@ -426,7 +426,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" group-title="Premium Movies",Celestial Movies (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd
@@ -474,13 +474,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/WmVlIEJpb3Nrb3A/manifest.mpd
 
 #EXTINF:-1 tvg-id="CinemaWorld.my@SD" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cinemaworld.png",CinemaWorld (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2luZW1hIFdvcmxk/manifest.mpd
@@ -582,13 +582,13 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/ind
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="Korean Channels",TVN (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/dHZOQ2hhbm5lbA/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean Channels",TvN movies HD (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZOIE1vdmllcw/manifest.mpd
@@ -597,7 +597,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kbsworld.png",KBS World (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/S0JTIFdvcmxk/manifest.mpd
@@ -748,7 +748,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
 #EXTINF:-1 tvg-id="ABCAustralia.au@SD" group-title="Entertainment & LifeStyle" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png",ABC Australia (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd
@@ -761,7 +761,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/16374447d35a49a596b9ff6cda259fe0/index.mpd
 
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="Entertainment & LifeStyle" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png",TV5 Monde (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFY1IE1vbmRl/manifest.mpd
@@ -828,19 +828,19 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTVAsia.fr@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/RmFzaGlvbiBUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="Entertainment & LifeStyle" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4f477c14-5ec0-47d2-9665-925fe0056c64.png",Dunia Lain (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd
 
 #EXTINF:-1 tvg-id="nsert.id@SD" group-title="Entertainment & LifeStyle" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b2b24ee2-1a34-4fb2-af2f-2a00a28d15c9.png",Insert (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/IW5zZXJ0/manifest.mpd
@@ -856,7 +856,7 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id@SD" tvg-name="Bioskop Indonesia" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Indonesian Entertainment & Movies",BIOSKOP INDONESIA (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
@@ -997,7 +997,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonnetwork.png",Cartoon Network
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBOZXR3b3Jr/manifest.mpd
@@ -1006,31 +1006,31 @@ https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508
 http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/9e422d53-5c00-49ea-8422-e2a3f1e03f70.jpg",Cartoon TV (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUVg/manifest.mpd
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/87c43b67-b234-41a8-b188-ae6b498a40b4.jpg",Cartoon TV Classic (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
 
 #EXTINF:-1 group-title="Kids Channel" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6e735e2f-e7db-47ec-b13b-23d3a0342124.jpg",Cartoon TV Premium (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUViBQcmVtaXVt/manifest.mpd
 
 #EXTINF:-1 tvg-id="BoomerangAsia.sg@SD" group-title="Kids Channel" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",Cartoonito (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbml0bw/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/76e39ba2-62b9-4f96-90ae-3de803edb400.png" group-title="Kids Channel", Dunia Anak (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgQW5haw/manifest.mpd
@@ -1745,7 +1745,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 
 #EXTINF:-1 group-title="China" tvg-id="CCTV4" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",CCTV 4 (Transcorp)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id//
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q0NUViA0/manifest.mpd
