@@ -439,12 +439,13 @@ EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-url="https://raw.githubusercontent.com/a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.manifest_update_parameter=full
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=IndiHomeTV%2F8.7.12%20%28Linux%3B%20Android%2015.0.0%3B%29%20ExoPlayerLib%2F2.19.1%20Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F150.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fmaxstream.tv%2F&Origin=https%3A%2F%2Fmaxstream.tv
-#KODIPROP:inputstream.adaptive.play_timeshift_buffer=true
-#EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Premium Movies",HitsMovies (V+)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=IndiHomeTV%2F8.7.12%20%28Linux%3B%20Android%2015.0.0%3B%29%20ExoPlayerLib%2F2.19.1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https%3A%2F%2Fmaxstream.tv%2F
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https%3A%2F%2Fmaxstream.tv
+#EXTINF:-1 tvg-id="HITSMovies.sg@SD" group-title="Premium Movies",HitsMovies
 https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
