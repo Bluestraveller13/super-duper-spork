@@ -75,6 +75,13 @@ http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302312
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://green-night-d2b4.iontv.workers.dev/transtv.m3u8
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="Indonesia Channels",Trans7 
+http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
+
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC%2F3.0.20%20LibVLC%2F3.0.20%20Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2010%3B%20Xstream%20Build%2FQKQ1.190828.002%29&Origin=https://www.transvision.co.id/&Referer=https://www.transvision.co.id/&X-Forwarded-For=9.9.9.9&Client-IP=9.9.9.9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
