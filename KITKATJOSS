@@ -746,11 +746,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png" group-title="Korean Channels",Arirang (V+)
 https://dv6fza91pwlw3.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
 #EXTINF:-1 tvg-id="tvNAsia.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://e7.pngegg.com/pngimages/120/627/png-clipart-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-thumbnail.png" group-title="Korean Channels",TVN (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=73
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
