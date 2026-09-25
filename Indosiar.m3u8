@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1256000,RESOLUTION=864x480,FRAME-RATE=25.000
-http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/chunklist_w1376272452_b2256000_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2156000,RESOLUTION=1280x720,FRAME-RATE=25.000
-http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/chunklist_w1376272452_b4256000_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3156000,RESOLUTION=1920x1080,FRAME-RATE=25.000
-http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/chunklist_w1376272452_b6256000_sleng.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.000000,
+http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3UxOWR6NmYxUTllMi80N1IzM2tGWQ
