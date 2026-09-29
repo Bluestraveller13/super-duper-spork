@@ -590,7 +590,7 @@ https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-32777070300
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/ 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil (Transcorp)
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VGhyaWxs/manifest.mpd?signature=MjBiMGZkMzk5MGVmY2JiZDEyYzA1ZDA4M2ZlMDViZWY=&time=&device_id=1E44vSq6A0FLs3YH9luxpgZmK1MW5h2vOrLTzVu9HM34VMPLfw
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/VGhyaWxs/manifest.mpd?signature=ZjI1M2M5ZWMwOTY3M2NmMGUxZTcwYjM5MmRlM2E0NmY=\u0026time=77777777777\u0026device_id=W2KuLCluRfivWKafYSH6uO3SGOTu78UsEH8abXZcVaBCVmLab9gd
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1081,7 +1081,7 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/ 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id@SD" tvg-name="Bioskop Indonesia" tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="Indonesian Entertainment & Movies",BIOSKOP INDONESIA (Transcorp)
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=NGYzMTczZWZlM2RmZDk2YjBiNzgzZTY0MTViY2NmODk=&time=&device_id=AY6jRPCj-4G7-FyBTzdTQOtlgKJZUlBSKOwz6RX9v2OCe7nVog
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd?signature=YTM2ZGMyMGQxMGZmNjU5MzhhYzEyYjA1M2Q4Y2NhOGE=\u0026time=77777777777\u0026device_id=GkguOsfVUzjvdLcNPry63wAVgkbU69oEu_B1tKxHY_DJTKOPNPhO
 
 #EXTINF:-1 tvg-id="IMC.id@SD" tvg-name="" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_imc.png" group-title="Indonesian Entertainment & Movies",Indonesia Movie Channel (V+)
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
