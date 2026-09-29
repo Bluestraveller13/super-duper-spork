@@ -609,7 +609,7 @@ https://cdnbal1.indihometv.com/atm/DASH/celestialmovie/celestialmovie-avc1_25000
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" group-title="Premium Movies",Celestial Movies (Transcorp)
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=Njk1NzJlOTg0ZWRhOWVlY2Q5MTAwZDU3YWVhMWRjZmI=&time=&device_id=W-KYtX4FF-iyLDAnNbbhkMqVH8mjAloJqsGAM1KsONf05UCQIg
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd?signature=OThmOWMxZmQzYjhiMjI2OTYwOWFjOWUwMmE2NjkzYjE=\u0026time=77777777777\u0026device_id=F13oNmTgWg3XkWc2HYAAJMF_6mmslythg6cheBnoBmO_fODmywKY
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" group-title="Premium Movies",Celestial Movies (V+)
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
