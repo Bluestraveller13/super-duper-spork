@@ -305,7 +305,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/ 
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne (Transcorp)
-https://cdnjktcyber05.transvision.co.id/riutx01-437ec38cc692ca43976ff80c7af30565/dash/VFZPTkU/manifest.mpd?signature=MWQxNDgxM2ZlMWRkMDU3N2U4ZTFkZDllY2M5YjEyYTM=&time=&device_id=Dz5tY5nP9bziI0KILdMHmQVYDHEcuGbHsgD-eLsZXyGjlCbqsQ
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/VFZPTkU/manifest.mpd?signature=ZDgzNDA3MmYxYTBkNmZjNjQyYTkyNjc1N2VkOGY4NzE=\u0026time=77777777777\u0026device_id=w-EqbxOId06z9aVRMLLMOKN2sGfpeQiEvNNlr4MpZwLPjr9nACsQ
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne (DensTV)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
