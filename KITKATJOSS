@@ -6,16 +6,14 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.cubmu.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.play_max_bw=5000000
-#KODIPROP:inputstream.adaptive.min_buffer_time=10
-#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI
-https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=MmM0YTIwNTQ3Y2MzM2E3YjVmODk4NTgzNTMxY2YzZTk=&time=00000000000&device_id=dO24HKtSirrEW08ohXrMr8p_c9pimkhk4W9pisBtSOv66WKLfmay
-
+#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (Transcorp)
+https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/UkNUSS1DaGFubmVs/manifest.mpd?signature=MmM0YTIwNTQ3Y2MzM2E3YjVmODk4NTgzNTMxY2YzZTk=&time=00000000000&device_id=dO24HKtSirrEW08ohXrMr8p_c9pimkhk4W9pisBtSOv66WKLfmay|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 
 
 #EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (V+)
