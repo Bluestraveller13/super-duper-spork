@@ -796,7 +796,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #EXTINF:-1 tvg-id="KPlus.sg@SD" group-title="Korean Channels" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K Plus (Transcorp)
-https://cdnjktcyber05.transvision.co.id/riutx01-2c1fa8682342c878f128b4149a675281/dash/a3BsdXNjaGFubmVs/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riutx01-2f65b3d77c22543c5b585fb146ab3f32/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=ZDk1ODUwZTM5MjRmZGQwZGM2OWM3NzUwY2I1YjY5ZTY=\u0026time=77777777777\u0026device_id=P874e3TRVYGcFJxItONMbjIjGf_KSkc7govSYzDUlfyUKM4gdeye
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
