@@ -1586,6 +1586,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/ind
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" group-title="News" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg (Maxstream)
 https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG_AT/BLOOMBERG_AT-avc1_2500000=7-3277707030000000.mpd
 
+EXTINF:-1 group-title="News" tvg-id="CNN International" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="CNN" tvg-logo="https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png",CNN Int HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd	
+
 #EXTINF:-1 tvg-id="CGTN" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://static.mncnow.id/images/channel/87f1d571/242b_r32.jpg" group-title="News",CGTN (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1667,7 +1672,6 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/ind
 
 EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
 EXTINF:-1 tvg-id="Channel News Asia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="News",Channel News Asia
-EXTINF:-1 group-title="News" tvg-id="CNN International" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-name="CNN" tvg-logo="https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png",CNN Int HD
 EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1755135969_tvchannels_v1.jpg" group-title="News",Al Jazeera English
 EXTINF:-1 tvg-id="Bloomberg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png" group-title="News",Bloomberg
 EXTINF:-1 tvg-id="Bloomberg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Bloomberg-Emblem.png" group-title="News",Bloomberg (Vision+)
@@ -2324,11 +2328,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd	
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.frXQ_bTI09m6kaBfMyDGywAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="Trial Channel", CNN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd	
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GYmDMLTl5YuXJmqJalQSdgAAAA?pid=Api&P=0&h=180" group-logo="https://tse3.mm.bing.net/th/id/OIP.JBLT_MlcqEAEtVXfrT0hLwAAAA?pid=Api&P=0&h=180" group-title="Trial Channel", DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
