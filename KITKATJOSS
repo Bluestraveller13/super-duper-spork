@@ -493,11 +493,11 @@ https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8
 
 #================================================================================= Premium Movies ============================================================================================#
 
+#EXTINF:-1 tvg-id="HITS.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="Premium Movies",Hits (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=77
-#EXTINF:-1 tvg-id="HITS.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="Premium Movies",Hits (Vision+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml"  tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Premium Movies",HitsMovies (Vision+)
