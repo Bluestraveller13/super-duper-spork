@@ -4,6 +4,12 @@
 #EXT-X-MEDIA-SEQUENCE:343092
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:9,
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://013tv.com:8080/F33848/cbd9779b/306484
 #EXTINF:10,
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://013tv.com:8080/F33848/cbd9779b/197972
