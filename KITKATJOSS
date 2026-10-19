@@ -1601,6 +1601,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/in
 #EXTINF:-1 tvg-logo="https://kawanua.tv/wp/wp-content/themes/kawanua-tv/assets/img/ktv-color.png" group-title="Local Channels",Kawanua TV
 https://63b2dc7196c38.streamlock.net:1937/KAWANUATV/_definst_/myStream/chunklist_w552982770.m3u8
 
+#EXTINF:-1 tvg-logo="https://jitv.jogjaprov.go.id/assets/logo_jitv-d49121b3.png" group-title="Local Channels",JITV Jogja
+https://jitv.jogjaprov.go.id/tv/stream/chunklist_w448928976.m3u8
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
