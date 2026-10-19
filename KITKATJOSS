@@ -1574,28 +1574,28 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=24&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=24
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTINF:-1 tvg-id="25" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png" group-title="Local Channels",JAKTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=25&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=25
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
 #EXTINF:-1 tvg-id="26" tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="Local Channels",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=26&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=26
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 tvg-id="27" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-m.png" group-title="Local Channels",Bandung TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://vision.hoe.my.id/play?ids=27&type=drm&token=alf-store
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=27
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
 
 #EXTINF:-1 tvg-logo="https://kawanua.tv/wp/wp-content/themes/kawanua-tv/assets/img/ktv-color.png" group-title="Local Channels",Kawanua TV
