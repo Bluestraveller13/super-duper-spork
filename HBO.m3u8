@@ -1,4 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://spmid.pw:80/play/z0O6XJxomfqqLAzqd6s5w_4qXOAvPBx3M9y_b8XPfOQ
+#EXTM3U
+#EXTINF:-1,Stream 1
+http://013tv.com:8080/F33848/cbd9779b/306484
+#EXTINF:-1,Stream 2
+http://013tv.com:8080/F33848/cbd9779b/197972
+#EXTINF:-1,Stream 3
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
