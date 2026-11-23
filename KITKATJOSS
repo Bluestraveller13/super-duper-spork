@@ -9,7 +9,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/117916
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://linier-mnctv.rctiplus.id/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",Global TV (Vision+)
