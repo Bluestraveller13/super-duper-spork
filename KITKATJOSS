@@ -7,7 +7,7 @@ https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/http://fikoltv.ottc.pro:80/IIML8BORNU/2T48AVSPDU/117916
 https://linier-mnctv.rctiplus.id/mnctv-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/6uEQ8IC06gH6XiMTVHtlRr1HAOE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/810229.png" group-title="Indonesia Channels",Global TV (Vision+)
@@ -600,7 +600,11 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-nickelodeon-nick-splash-logo-icon-png-701751694710415awui6lgjdm.png?v=2025061816" group-title="Kids Channel",Nickelodeon (Vision+)
+
+#EXTINF:-1 tvg-id="auto.baby.shark.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSk5u8qnZekBJlt1mpK1p4WqtmDfhTyPfABfWm7cN1BQ&s=10" group-title="Kids Channel",Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-nickelodeon-nick-splash-logo-icon-png-701751694710415awui6lgjdm.png?v=2025061816" group-title="Kids Channel",Nickelodeon (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
