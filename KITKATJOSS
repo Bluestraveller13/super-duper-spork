@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="RCTI.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (Vision+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rplus.inisemar.my.id/rcti.m3u8
+https://rplus.inisemar.my.id/rcti.m3u8tvone
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV (Vision+)
@@ -85,7 +85,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 https://dsgtq5sngxkde.cloudfront.net/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne (Intech)
-https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id@SD" tvg-url="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="Indonesia Channels",TVOne (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
